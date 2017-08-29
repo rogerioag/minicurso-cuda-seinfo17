@@ -9,7 +9,7 @@ Material do Minicurso de Introdução à Computação Paralela em Sistemas Heter
 
 ## Código dos Exemplos
 
-[Slides](src/exemplos-minicurso-cuda)
+[Exemplos](src/exemplos-minicurso-cuda)
 
 ## Contato
 

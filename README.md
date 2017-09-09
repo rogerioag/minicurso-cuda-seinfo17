@@ -3,9 +3,9 @@ Material do Minicurso de Introdução à Computação Paralela em Sistemas Heter
 
 ## Slides
 
-[Slides](slides/minicurso-computacao-heterogenea-cuda.md.slides.pdf)
-[Folhetos](slides/minicurso-computacao-heterogenea-cuda.md.handout.pdf)
-[Notas de Aula](slides/minicurso-computacao-heterogenea-cuda.md.notes.pdf)
+[[Slides]](slides/minicurso-computacao-heterogenea-cuda.md.slides.pdf)
+[[Folhetos]](slides/minicurso-computacao-heterogenea-cuda.md.handout.pdf)
+[[Notas de Aula]](slides/minicurso-computacao-heterogenea-cuda.md.notes.pdf)
 
 ## Código dos Exemplos
 
